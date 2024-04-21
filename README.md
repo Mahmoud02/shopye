@@ -1,7 +1,7 @@
 # Hi, if you reading this repo, I hope you are doing well.
 
 I wanted to provide an update regarding the repository. As you may have noticed, the current state of the repository is incomplete.
-However, I have exciting plans to enhance it by applying the hexagonal architecture.
+However, I have exciting plans to enhance it by applying the **hexagonal architecture**.
 
 What is the hexagonal architecture, you ask? It’s a powerful design pattern that promotes separation of concerns and modularization. By adopting this approach, we’ll achieve better maintainability, testability, and scalability.
 
